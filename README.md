@@ -22,6 +22,16 @@ This is a detailed prestentation on a  **10 Business questions** for Business Da
 * Data to Excel for visualization. 
 * Creation of Pivot Tables and building of An interactive Dashboard.
 
+
+
+## POSSIBLE STAKEHOLDERS
+* Managers
+* Accounting Department
+* Sales Department
+* Businesness Owners
+
+
+
 ## Table Exploration with SQL
 There were three Tables used for this project which included 
  1) Sale Transaction Table
@@ -35,16 +45,6 @@ There were three Tables used for this project which included
 `select * from [dbo].[returned_item_T]`
 
 ![Alt Text](https://github.com/Mario-Gozie/SQL-Task/blob/main/Images/Three_Tables.png)
-
-
-## POSSIBLE STAKEHOLDERS
-* Managers
-* Accounting Department
-* Sales Department
-* Businesness Owners
-
-![Alt Text]()
-
 ## The Business Questions.
 
 1) The Organization is planning to gift the best performing manager
@@ -215,7 +215,6 @@ where YEAR(Birth_Date) = 2011;`
   T.Order_id = P.Order_ID and T.sales_id = P.sales_id
   join Regional_Manager_T as S on T.Region = S.Region;`
 
-![Alt Text]()
 
 ## Power Query in Use
 
