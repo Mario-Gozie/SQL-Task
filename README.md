@@ -233,7 +233,7 @@ Power Query was used in data cleaning:
 
 ## RECOMENDATION AND CONCLUTION.
 
-Overall, I would advice that the stop Sales of Tables and Bookcases as these items bring obvious loss to the company. in adition to that, the quality of office supplies need to be checked as it tops the list of most returned items.
+Overall, I would advice stop in Sales of Tables and Bookcases as these items bring obvious loss to the company. in adition to that, the quality of office supplies need to be checked as it tops the list of most returned items.
 
 
 ![Alt Text](https://github.com/Mario-Gozie/SQL-Task/blob/main/Images/Thank_You.jpg)
